@@ -1,0 +1,20 @@
+.button-group {
+  button {
+    border: 1px solid grey;
+    padding: 5px;
+  }
+}
+.light {
+  background-color: white;
+}
+.is-active {
+  background-color: #e7e7e7;
+}
+.first {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.last {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}

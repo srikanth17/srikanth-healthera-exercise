@@ -1,0 +1,50 @@
+.message-area {
+  background-color: #f8f8f8;
+  height: 300px;
+  h2 {
+    background-color: forestgreen;
+    color:#fff;
+    padding: 10px;
+  }
+  form {
+    position: absolute;
+    bottom: 0;
+  }
+}
+.msg p {
+  background: forestgreen none repeat scroll 0 0;
+  border-radius: 3px;
+  font-size: 14px;
+  margin: 0;
+  color: #fff;
+  padding: 5px 10px 5px 12px;
+  width: 100%;
+}
+.img {
+  float: right;
+}
+.outer-msg {
+  overflow: hidden;
+  margin: 20px 15px 20px;
+}
+.msg {
+  float: left;
+  margin-left: 20px;
+  width: 90%;
+}
+.chat {
+  display: inline-block;
+  width: auto;
+  vertical-align: middle;
+  background-color: #e7e7e7;
+  border: 0;
+}
+.chat-form {
+  padding-right: 30px;
+}
+.btn-default {
+  min-width: 100px;
+  background-color: forestgreen;
+  color: #fff;
+  border-radius: 0;
+}

@@ -1,0 +1,15 @@
+.card {
+  margin-top: 10px;
+  ul {
+    li {
+      cursor: pointer;
+    }
+  }
+}
+.search {
+  background-color: #fff;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  min-height: 40px;
+  padding: 10px !important;
+}

@@ -1,0 +1,16 @@
+.header {
+  padding: $header-space;
+  margin: $header-space;
+  border: 1px solid #e7e7e7;
+  background-color: #f8f8f8;
+  ul {
+    float: right;
+    font-size: $font-size;
+    li {
+      a {
+        color: #777;
+        text-decoration: none;
+      }
+    }
+  }
+}
